@@ -1,6 +1,6 @@
-### Hi there 👋
+### :book: I can..
 
-### :book: I can 
+### :running: Hobby..
 
 <!--
 **HongJunseong/HongJunseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
