@@ -2,7 +2,7 @@
 · KyungHee University, Department of Software Convergence - DataScience Track
 
 ### :book: I can..
-![image](https://user-images.githubusercontent.com/71539180/116391106-b9576400-a859-11eb-940a-7bcbdf4b280c.png)
+
 
 
 ### :running: Hobby..
