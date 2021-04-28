@@ -1,4 +1,5 @@
-### 🎓 Education..
+### :mortar_board: Education..
+· KyungHee University, Department of Software Convergence - DataScience Track
 
 ### :book: I can..
 
