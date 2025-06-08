@@ -4,23 +4,23 @@
 ----
 
 ### :running: Hobby..
-· Games
+- Games
 
-· Violin
+- Violin
 
-· Exercising
+- Exercising
 
 ---
 ### 🏅 Certifications ###
-· 데이터 분석 준전문가 (ADSP), 2025.02
+- 데이터 분석 준전문가 (ADSP), 2025.02
 
-· SQL 개발자 (SQLD), 2025.03
+- SQL 개발자 (SQLD), 2025.03
 
 ---
 ### ✉️ E-Mail ###
-· wnstjd4504@gmail.com
+- wnstjd4504@gmail.com
 
-· wnstjd4504@khu.ac.kr
+- wnstjd4504@khu.ac.kr
 
 <!--
 **HongJunseong/HongJunseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
