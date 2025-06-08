@@ -1,5 +1,5 @@
 ### :mortar_board: About me..
-· KyungHee University, Department of Software Convergence - DataScience Track
+- KyungHee University, Department of Software Convergence - DataScience Track
 
 ----
 
