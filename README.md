@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### Stats INFO
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstjd4504)](https://solved.ac/wnstjd4504/)
