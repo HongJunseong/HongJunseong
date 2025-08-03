@@ -1,15 +1,6 @@
 ### :mortar_board: About me..
 - KyungHee University, Department of Software Convergence - DataScience Track
 
-----
-
-### :running: Hobby..
-- Games
-
-- Violin
-
-- Exercising
-
 ---
 ### 🏅 Certifications ###
 - 데이터 분석 준전문가 (ADSP), 2025.03
