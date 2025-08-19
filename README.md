@@ -1,15 +1,15 @@
-### :mortar_board: About me..
+## :mortar_board: About me..
 - KyungHee University, Department of Software Convergence - DataScience Track
 
 ---
-### ✉️ E-Mail ###
+## ✉️ E-Mail ###
 - wnstjd4504@gmail.com
 
 - wnstjd4504@khu.ac.kr
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <h4>Language</h4>
 <p>
@@ -53,12 +53,12 @@
 
 ---
 
-### 📊 Stats Info
+## 📊 Stats Info
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstjd4504)](https://solved.ac/wnstjd4504/)
 
 ---
-### 🏅 Certifications ###
+## 🏅 Certifications ###
 - 데이터 분석 준전문가 (ADSP), 2025.03
 
 - SQL 개발자 (SQLD), 2025.04
