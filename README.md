@@ -9,7 +9,7 @@
 
 ---
 
-<h2>🛠 Tech Stack</h2>
+### 🛠 Tech Stack
 
 <h4>Language</h4>
 <p>
