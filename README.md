@@ -1,11 +1,6 @@
-## :mortar_board: About me..
-- KyungHee University, Department of Software Convergence - DataScience Track
 
----
 ## ✉️ E-Mail ###
 - wnstjd4504@gmail.com
-
-- wnstjd4504@khu.ac.kr
 
 ---
 
