@@ -46,11 +46,6 @@
   <img src="https://img.shields.io/badge/kepler.gl-Geospatial-00C2A0?style=flat&logoColor=000000"/>
 </p>
 
----
-
-## 📊 Stats Info
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstjd4504)](https://solved.ac/wnstjd4504/)
 
 ---
 ## 🏅 Certifications ###
