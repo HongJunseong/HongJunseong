@@ -49,50 +49,11 @@
   <img src="https://img.shields.io/badge/kepler.gl-Geospatial-00C2A0?style=flat&logoColor=000000"/>
 </p>
 
-## 🧰 Tech Stack
 
-### Language
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
-</p>
-
-### Workflow / Orchestration
-<p>
-  <img src="https://skillicons.dev/icons?i=airflow" height="40" />
-</p>
-
-### ML / Modeling
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="27"/>
-</p>
-
-### DevOps / Collaboration
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" />
-</p>
-
-### Visualization
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="27"/>
-  <img src="https://img.shields.io/badge/kepler.gl-4f83c8?style=flat" height="27"/>
-  <img src="https://img.shields.io/badge/Geospatial-34A853?style=flat&logo=qgis&logoColor=white" height="27"/>
-</p>
 
 
 ---
-## 🏅 Certifications
+### 🏅 Certifications
 <small>데이터 분석 준전문가 (ADsP, 2025.03) · SQL 개발자 (SQLD, 2025.04) · 빅데이터분석기사 (BAE, 2025.07)</small>
 
 
