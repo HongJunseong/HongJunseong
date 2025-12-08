@@ -12,8 +12,6 @@
 <h4>Language</h4>
 <p>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=000000"/>
 </p>
 
 <h4>Workflow / Orchestration</h4>
