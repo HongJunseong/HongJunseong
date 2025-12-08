@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Hong Junseong
 🎓 Software Convergence undergraduate at Kyung Hee University.
-<p>I’m passionate about building reliable **data pipelines** , efficient **ETL workflows**, and **robust data architectures**.</p>
+<p>I’m passionate about building reliable data pipelines, efficient ETL workflows, and robust data architectures.</p>
 
 
 ✉️ E-Mail : wnstjd4504@gmail.com
