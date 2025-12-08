@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Hong Junseong
-🚀 Aspiring Data/AI Engineer & Software Convergence undergraduate at Kyung Hee University.
+🎓 Software Convergence undergraduate at Kyung Hee University.
+<p>I’m passionate about building reliable **data pipelines** , efficient **ETL workflows**, and **robust data architectures**.</p>
 
-I’m passionate about building reliable data pipelines, efficient ETL workflows, and robust data architectures.
 
 ✉️ E-Mail : wnstjd4504@gmail.com
 
