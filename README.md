@@ -1,9 +1,15 @@
-# 👋 Hello! I'm Hong Junseong
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=HongJunseong&fontSize=44&fontColor=E6EDF3&fontAlignY=38&desc=Data%20Engineer&descSize=16&descAlignY=58" />
+</div>
+
 🎓 Software Convergence undergraduate at Kyung Hee University.
 <p>I’m passionate about building reliable data pipelines, efficient ETL workflows, and robust data architectures.</p>
 
-
-<p>✉️ E-Mail : wnstjd4504@gmail.com</p>
+<p align="center">
+  <a href="mailto:wnstjd4504@gmail.com">
+    <img src="https://img.shields.io/badge/wnstjd4504@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
+  </a>
+</p>
 
 ---
 
@@ -28,7 +34,7 @@
 <p>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=000000"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/orcale-222222?style=flat&logo=oracle&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/oracle-222222?style=flat&logo=oracle&logoColor=000000"/>
 
 </p>
 
@@ -53,7 +59,3 @@
 ---
 ### 🏅 Certifications
 <small>데이터 분석 준전문가 (ADsP, 2025.03) · SQL 개발자 (SQLD, 2025.04) · 빅데이터분석기사 (BAE, 2025.07)</small>
-
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongJunseong&show_icons=true&theme=graywhite)
-
