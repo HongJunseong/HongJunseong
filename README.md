@@ -54,4 +54,6 @@
 ### 🏅 Certifications
 <small>데이터 분석 준전문가 (ADsP, 2025.03) · SQL 개발자 (SQLD, 2025.04) · 빅데이터분석기사 (BAE, 2025.07)</small>
 
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongJunseong&show_icons=true&theme=graywhite)
 
