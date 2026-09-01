@@ -53,7 +53,15 @@
   <img src="https://img.shields.io/badge/kepler.gl-Geospatial-00C2A0?style=flat&logoColor=000000"/>
 </p>
 
+---
 
+### 🚀 Experience
+<small>Hyundai Motor Group Softeer Bootcamp 8th · Data Engineering (2026.07 – 2026.08)</small>
+
+---
+
+### 🏆 Awards
+<small> Softeer Bootcamp 8th - 우수상 (2026.08)</small>
 
 
 ---
