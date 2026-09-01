@@ -56,7 +56,7 @@
 ---
 
 ### 🚀 Experience
-<small>Hyundai Motor Group Softeer Bootcamp 8th · Data Engineering (2026.07 – 2026.08)</small>
+<small>Hyundai Motor Group Softeer Bootcamp 8th · Data Engineering / Data Architect (2026.07 – 2026.08)</small>
 
 ---
 
